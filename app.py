@@ -127,7 +127,7 @@ def load_img_cxr():
     return send_from_directory(os.path.join(assets_dir,'cxr'),'{}.jpg'.format(cnt_cxr-1))
 
 def open_browser():
-      webbrowser.open_new('http://127.0.0.1:5000/')
+      webbrowser.open_new('http://127.0.0.1:3000/')
 
 
 if __name__ == '__main__':
