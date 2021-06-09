@@ -1,11 +1,13 @@
 # arogyam 
 
-![Alt Text](https://im2.ezgif.com/tmp/ezgif-2-09b89f39bc64.gif)
-![Alt Text](https://im2.ezgif.com/tmp/ezgif-2-f73c607a8eca.gif)
-
 [![GitHub issues](https://img.shields.io/github/issues/sudo-rajarshi/arogyam)](https://github.com/sudo-rajarshi/arogyam/issues)
 [![GitHub stars](https://img.shields.io/github/stars/sudo-rajarshi/arogyam)](https://github.com/sudo-rajarshi/arogyam/stargazers)
 [![GitHub license](https://img.shields.io/github/license/sudo-rajarshi/arogyam)](https://github.com/Shrabana97/arogyam/blob/master/LICENSE)
+
+
+![Alt Text](https://im2.ezgif.com/tmp/ezgif-2-09b89f39bc64.gif)
+![Alt Text](https://im2.ezgif.com/tmp/ezgif-2-f73c607a8eca.gif)
+
 
 ## About
 * An AI integrated website, where the user will get to know whether he or she is infected by viruses or diseases based on their medical documentations.
