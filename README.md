@@ -5,8 +5,8 @@
 [![GitHub license](https://img.shields.io/github/license/sudo-rajarshi/arogyam)](https://github.com/Shrabana97/arogyam/blob/master/LICENSE)
 
 
-![Alt Text](ezgif-2-09b89f39bc64.gif)
-![Alt Text](ezgif-2-b2c775891585.gif)
+![Alt Text](static/ezgif-2-09b89f39bc64.gif)
+![Alt Text](static/ezgif-2-b2c775891585.gif)
 
 
 ## About
